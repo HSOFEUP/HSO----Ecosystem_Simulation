@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.0.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.0.2}{Game Rules}{}% 2
+\BOOKMARK [1][-]{section.0.3}{System Architecture}{}% 3
+\BOOKMARK [2][-]{subsection.0.3.1}{Main Structures and Methods}{section.0.3}% 4
+\BOOKMARK [1][-]{section.0.4}{Implementation}{}% 5
+\BOOKMARK [2][-]{subsection.0.4.1}{Sequential Version}{section.0.4}% 6
+\BOOKMARK [2][-]{subsection.0.4.2}{Parallel Version}{section.0.4}% 7
+\BOOKMARK [2][-]{subsection.0.4.3}{Analysis Medium Granularity vs Fine Granularity}{section.0.4}% 8
+\BOOKMARK [1][-]{section.0.5}{Conclusions}{}% 9
+\BOOKMARK [1][-]{section.0.6}{Final Notes}{}% 10
